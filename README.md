@@ -9,4 +9,5 @@ https://git-scm.com/downloads
 - Step 1 : Go to config.php setup enviroment for your app, put your code key your create in Install step 2 to PrivateKey and PublicKey.
 One Client has 2 key is PublicKey and PrivateKey.
 Setup enviroment database username,password,databasename.
-- Step 2 : Run App - Enjoy.
+- Step 2 : Run App - Login with account: admin@gmail.com Pass: 123456
+Enjoy !!
